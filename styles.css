@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .buttonDiv {
+    text-align: center;
+  }
+  
+  .image {
+    display: block;
+    margin-top: 10px;
+  }
